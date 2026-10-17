@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Ejercicio1_TiposDatos/Ejercicio1_TiposDatos.csproj" />
+  <Project Path="Ejercicio2_Operadores/Ejercicio2_Operadores.csproj" />
+  <Project Path="Ejercicio3_Interpolacion/Ejercicio3_Interpolacion.csproj" />
+  <Project Path="Reto_Operadores/Reto_Operadores.csproj" />
+  <Project Path="Reto_TiposDatos/Reto_TiposDatos.csproj" />
+</Solution>
